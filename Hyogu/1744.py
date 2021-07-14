@@ -25,14 +25,13 @@ negative.sort()
 
 # print(positive)
 # print(negative)
-
 if len(negative) / 2 != 0:
     if len(zero) != 0:
         negative.append(0)
     else:
         negative.append(1)
 
-len_nega = int(len(negative)/2) #for i in range ( 0, num , 2) 시작점 명시가 필요함
+len_nega = int(len(negative)/2)
 point_n = 0
 for i in range(len_nega):
     num = negative[point_n] * negative[point_n+1]
