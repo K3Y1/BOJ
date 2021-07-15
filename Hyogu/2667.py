@@ -23,7 +23,6 @@ def dfs(a,b,graph):
                 cnt += 1
                 graph[nx][ny] = 0
                 stack.append((nx,ny))
-
     return cnt
 
 array =[]
