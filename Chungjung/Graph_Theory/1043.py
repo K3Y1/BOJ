@@ -1,5 +1,7 @@
 #<GOLD 4> 거짓말
 
+#그래프 이론 / 그래프 탐색 / DFS (DFS 이용했음)
+
 import sys
 import copy
 
