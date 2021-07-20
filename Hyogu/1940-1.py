@@ -10,7 +10,7 @@ numbers = list(map(int, input().split()))
 numbers.sort()
 
 f = 0
-r = n - 1
+r = n -1
 
 count = 0
 while f < r:
@@ -22,5 +22,6 @@ while f < r:
         r = r - 1
     else:
         f = f + 1
+
 print(count)
 
