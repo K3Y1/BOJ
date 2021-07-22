@@ -16,4 +16,4 @@
  - 11049
  - 1931
  - 1038 : 감소하는 수(GOLD 5) : 김단은 
- > Back Tracking Algorithm / Brooth Force Algorithm
+    Back Tracking Algorithm / Brooth Force Algorithm
