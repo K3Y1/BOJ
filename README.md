@@ -15,5 +15,6 @@
  - 1300
  - 11049
  - 1931
- - 1038 : 감소하는 수(GOLD 5) : 김단은    
+ - 1038 : 감소하는 수(GOLD 5) : 김단은
+ - 2467 : 용액(G5) :    
      Back Tracking Algorithm / Brooth Force Algorithm
