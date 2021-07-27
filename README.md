@@ -25,4 +25,4 @@
  - 4963 : 섬의 개수(S2) :
  - 1197 : 최소 스패닝 트리(G4) :
  - 2152 : <b>여행계획세우기(P3)</b> :
-     Back Tracking Algorithm / Brooth Force Algorithm
+   <br>  Back Tracking Algorithm / Brooth Force Algorithm
