@@ -74,7 +74,6 @@ def union(x, y):
     parent[x] = y
 
 
-# parent[0] = 0 까지 만들어준다. parent[x] = 0까지 만들어지는 게 핵심
 parent = {i: i for i in range(g+1)}
 cnt = 0
 for i in plane:
